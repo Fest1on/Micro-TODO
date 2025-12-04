@@ -3,4 +3,4 @@ project(Micro_TODO)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Micro_TODO main.cpp)
+add_executable(Micro_TODO Todo.cpp)
